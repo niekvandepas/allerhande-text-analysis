@@ -57,6 +57,8 @@ This will create the file `allerhande_full_website_ocr.json` locally.
 
 4.	Set constants
 
+In `analysis/constants.py`, set the following values to your favorite file paths:
+
 ```python
 DATA_IMPORT_ERRORS_FILE_PATH = ""
 FASTTEXT_MODEL_PATH = ""
