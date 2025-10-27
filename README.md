@@ -51,13 +51,17 @@ This will create the file allerhande_full_website_ocr.json locally.
 
 Make sure you are in a virtual environment. Then install all Python dependencies:
 
+```python
 pip install -r requirements.txt
+```
 
 4.	Set constants
 
+```python
 DATA_IMPORT_ERRORS_FILE_PATH = ""
 FASTTEXT_MODEL_PATH = ""
 WORD2VEC_MODEL_PATH = ""
+```
 
 5. Run the code
 
