@@ -1,0 +1,860 @@
+{
+  "abchazië": [
+    "abchazisch",
+    "abchazische"
+  ],
+  "afghanistan": [
+    "afghanistans",
+    "afghanistanse"
+  ],
+  "albanië": [
+    "albanisch",
+    "albanische"
+  ],
+  "algerije": [
+    "algerisch",
+    "algerische"
+  ],
+  "andorra": [
+    "andorraans",
+    "andorraanse"
+  ],
+  "angola": [
+    "angolaans",
+    "angolaanse"
+  ],
+  "antigua en barbuda": [
+    "antigua en barbudaans",
+    "antigua en barbudaanse"
+  ],
+  "westelijke sahara": [
+    "westelijke saharaaans",
+    "westelijke saharaanse"
+  ],
+  "egypte": [
+    "egyptisch",
+    "egyptische"
+  ],
+  "argentinië": [
+    "argentijnse",
+    "argentijns"
+  ],
+  "armenië": [
+    "armenisch",
+    "armenische"
+  ],
+  "australië": [
+    "australisch",
+    "australische"
+  ],
+  "azerbeidzjan": [
+    "azerbeidzjans",
+    "azerbeidzjanse"
+  ],
+  "bahama's": [
+    "bahamaans",
+    "bahamaanse"
+  ],
+  "bahrein": [
+    "bahreins",
+    "bahreinse"
+  ],
+  "bangladesh": [
+    "bangladeshs",
+    "bangladeshse"
+  ],
+  "barbadiaanse": [
+    "barbadiaans",
+    "barbadiaanse"
+  ],
+  "belarus": [
+    "belarussisch",
+    "belarussische"
+  ],
+  "belgië": [
+    "belgisch",
+    "belgische"
+  ],
+  "belize": [
+    "belizaans"
+  ],
+  "benin": [
+    "benins",
+    "beninse"
+  ],
+  "bhutan": [
+    "bhutans",
+    "bhutanse"
+  ],
+  "venezuela": [
+    "venezolaans",
+    "venezolaans"
+  ],
+  "bolivia": [
+    "boliviaans",
+    "boliviaanse"
+  ],
+  "bosnië en herzegovina": [
+    "bosnië en herzegovinaans",
+    "bosnië en herzegovinaanse"
+  ],
+  "bosnië": [
+    "bosnisch",
+    "bosnische"
+  ],
+  "botswana": [
+    "botswaans",
+    "botswaans"
+  ],
+  "brazilië": [
+    "brazilisch",
+    "brazilische"
+  ],
+  "brunei": [
+    "bruneis",
+    "bruneise"
+  ],
+  "bulgarije": [
+    "bulgarisch",
+    "bulgarische"
+  ],
+  "burkina faso": [
+    "burkina fasos",
+    "burkina fasose"
+  ],
+  "burundi": [
+    "burundis",
+    "burundise"
+  ],
+  "cambodja": [
+    "cambodjaans",
+    "cambodjaanse"
+  ],
+  "canada": [
+    "canadees",
+    "canadese"
+  ],
+  "centraal-afrikaanse republiek": [
+    "centraal-afrikaanse republieks",
+    "centraal-afrikaanse republiekse"
+  ],
+  "chili": [
+    "chileens",
+    "chileense"
+  ],
+  "china": [
+    "chinees",
+    "chinese"
+  ],
+  "colombia": [
+    "colombiaans",
+    "colombiaanse"
+  ],
+  "comoren": [
+    "comorens",
+    "comorense"
+  ],
+  "congo": [
+    "congelees",
+    "congelese"
+  ],
+  "costa rica": [
+    "costa ricaans",
+    "costa ricaanse"
+  ],
+  "cuba": [
+    "cubaans",
+    "cubaanse"
+  ],
+  "cyprus": [
+    "cypriotisch",
+    "cypriotische"
+  ],
+  "denemarken": [
+    "deenss",
+    "deense"
+  ],
+  "djibouti": [
+    "djiboutis",
+    "djiboutise"
+  ],
+  "dominica": [
+    "dominicaans",
+    "dominicaanse"
+  ],
+  "dominicaanse republiek": [
+    "dominicaanse",
+    "dominicaans"
+  ],
+  "ecuador": [
+    "ecuadors",
+    "ecuadorse"
+  ],
+  "el salvador": [
+    "el salvadors",
+    "el salvadorse"
+  ],
+  "engeland": [
+    "engels",
+    "engelse"
+  ],
+  "equatoriaal-guinea": [
+    "equatoriaal-guineaans",
+    "equatoriaal-guineaanse"
+  ],
+  "eritrea": [
+    "eritrees",
+    "eritreese"
+  ],
+  "estland": [
+    "ests",
+    "estse"
+  ],
+  "eswatini": [
+    "eswatinis",
+    "eswatinise"
+  ],
+  "ethiopië": [
+    "ethiopisch",
+    "ethiopische"
+  ],
+  "federale staten van micronesia": [
+    "micronesisch",
+    "micronesische"
+  ],
+  "federatie van saint kitts en nevis": [
+    "federatie van saint kitts en neviss",
+    "federatie van saint kitts en nevisse"
+  ],
+  "fiji": [
+    "fijis",
+    "fijise"
+  ],
+  "filipijnen": [
+    "filipijns",
+    "filipijnse"
+  ],
+  "finland": [
+    "fins",
+    "finse"
+  ],
+  "frankrijk": [
+    "frans",
+    "franse"
+  ],
+  "gabon": [
+    "gabonees",
+    "gabonese"
+  ],
+  "gambia": [
+    "gambiaans",
+    "gambiaanse"
+  ],
+  "georgië": [
+    "georgisch",
+    "georgische"
+  ],
+  "ghana": [
+    "ghanees",
+    "ghanese"
+  ],
+  "gibraltar": [
+    "gibraltars",
+    "gibraltarse"
+  ],
+  "grenada": [
+    "grenadeens",
+    "grenadeense"
+  ],
+  "griekenland": [
+    "grieks",
+    "griekse"
+  ],
+  "guatemala": [
+    "guatemalaans",
+    "guatemalaanse",
+    "guatemalteeks",
+    "guatemalteekse"
+  ],
+  "guinee": [
+    "guineees",
+    "guineeese"
+  ],
+  "guinee-bissau": [
+    "guinee-bissaus",
+    "guinee-bissause"
+  ],
+  "guyana": [
+    "guyanaans",
+    "guyanaanse"
+  ],
+  "haiti": [
+    "haitis",
+    "haitise"
+  ],
+  "honduras": [
+    "hondurass",
+    "hondurasse"
+  ],
+  "hongarije": [
+    "hongarisch",
+    "hongarische"
+  ],
+  "hongkong": [
+    "hongkongs",
+    "hongkongse"
+  ],
+  "ierland": [
+    "ierse",
+    "ierse"
+  ],
+  "ijsland": [
+    "ijslands",
+    "ijslandse"
+  ],
+  "india": [
+    "indiaans",
+    "indiaanse"
+  ],
+  "indonesië": [
+    "indonesisch",
+    "indonesische",
+    "indisch",
+    "indische"
+  ],
+  "irak": [
+    "irakees",
+    "irakese",
+    "iraaks",
+    "iraakse"
+  ],
+  "iran": [
+    "iraans",
+    "iraanse"
+  ],
+  "israel": [
+    "israëlisch",
+    "israëlische"
+  ],
+  "italië": [
+    "italiaans",
+    "italiaanse"
+  ],
+  "ivoorkust": [
+    "ivoorkusts",
+    "ivoorkustse"
+  ],
+  "jamaica": [
+    "jamaicaans",
+    "jamaicaanse"
+  ],
+  "japan": [
+    "japans",
+    "japanse"
+  ],
+  "jemen": [
+    "jemens",
+    "jemenese"
+  ],
+  "jordanië": [
+    "jordanisch",
+    "jordanische"
+  ],
+  "kaapverdië": [
+    "kaapverdisch",
+    "kaapverdische"
+  ],
+  "kameroen": [
+    "kameroens",
+    "kameroense"
+  ],
+  "kazachstan": [
+    "kazachstaans",
+    "kazachstaanse"
+  ],
+  "kenia": [
+    "keniaans",
+    "keniaanse"
+  ],
+  "kirgizië": [
+    "kirgizisch",
+    "kirgizische"
+  ],
+  "kiribati": [
+    "kiribatis",
+    "kiribatise"
+  ],
+  "koeweit": [
+    "koeweits",
+    "koeweitse"
+  ],
+  "korea": [
+    "koreaans",
+    "koreaanse"
+  ],
+  "kosovo": [
+    "kosovees",
+    "kosovese"
+  ],
+  "kroatië": [
+    "kroatisch",
+    "kroatische"
+  ],
+  "laos": [
+    "laotiaans",
+    "laotiaanse",
+    "loatisch",
+    "loatische"
+  ],
+  "lesotho": [
+    "lesothos",
+    "lesothose"
+  ],
+  "letland": [
+    "lets",
+    "letse"
+  ],
+  "libanon": [
+    "libanees",
+    "libanese"
+  ],
+  "liberia": [
+    "liberiaans",
+    "liberiaanse"
+  ],
+  "libië": [
+    "libisch",
+    "libische"
+  ],
+  "liechtenstein": [
+    "liechtensteins",
+    "liechtensteinse"
+  ],
+  "litouwen": [
+    "litouws",
+    "litouwse"
+  ],
+  "luxemburg": [
+    "luxemburgs",
+    "luxemburgse"
+  ],
+  "macau": [
+    "macaus",
+    "macause"
+  ],
+  "madagaskar": [
+    "madagaskars",
+    "madagaskarse"
+  ],
+  "malawi": [
+    "malawis",
+    "malawise"
+  ],
+  "malediven": [
+    "maledivens",
+    "maledivense"
+  ],
+  "maleisië": [
+    "maleisisch",
+    "maleisische"
+  ],
+  "mali": [
+    "malinees",
+    "malinese"
+  ],
+  "malta": [
+    "maltaans",
+    "maltaanse"
+  ],
+  "marokko": [
+    "marokkaans",
+    "marokkaanse"
+  ],
+  "marshalleilanden": [
+    "marshalleilandens",
+    "marshalleilandense"
+  ],
+  "mauritanië": [
+    "mauritanisch",
+    "mauritanische"
+  ],
+  "mauritius": [
+    "mauritiuss",
+    "mauritiusse"
+  ],
+  "mexico": [
+    "mexicaans",
+    "mexicaanse"
+  ],
+  "moldavië": [
+    "moldavisch",
+    "moldavische"
+  ],
+  "monaco": [
+    "monegaskisch",
+    "monegaskische"
+  ],
+  "mongolië": [
+    "mongolisch",
+    "mongolische"
+  ],
+  "montenegro": [
+    "montenegrijns",
+    "montenegrijnse"
+  ],
+  "mozambique": [
+    "mozambikaans",
+    "mozambikaanse"
+  ],
+  "myanmar": [
+    "myanmarees",
+    "myanmarese",
+    "birmaans",
+    "birmaanse",
+    "birmees",
+    "birmese"
+  ],
+  "namibië": [
+    "namibisch",
+    "namibische"
+  ],
+  "nauru": [
+    "nauruaans",
+    "nauruaanse"
+  ],
+  "nederland": [
+    "nederlands",
+    "nederlandse",
+    "hollands",
+    "hollandse"
+  ],
+  "nepal": [
+    "nepalees",
+    "nepalese"
+  ],
+  "nicaragua": [
+    "nicaraguaans",
+    "nicaraguaanse"
+  ],
+  "nieuw-zeeland": [
+    "nieuw-zeelands",
+    "nieuw-zeelandse"
+  ],
+  "niger": [
+    "nigerees",
+    "nigerese",
+    "nigeraans",
+    "nigeraanse",
+    "nigerijns",
+    "nigerijnse"
+  ],
+  "nigeria": [
+    "nigeriaans",
+    "nigeriaanse"
+  ],
+  "noord-cyprus": [
+    "noord-cypriotisch",
+    "noord-cypriotische"
+  ],
+  "noord-macedonië": [
+    "noord-macedonisch",
+    "noord-macedonische"
+  ],
+  "noorwegen": [
+    "noors",
+    "noorse"
+  ],
+  "oeganda": [
+    "oegandees",
+    "oegandeese"
+  ],
+  "oekraine": [
+    "oekraïens",
+    "oekraïense"
+  ],
+  "oezbekistan": [
+    "oezbekistaans",
+    "oezbekistaanse"
+  ],
+  "oost-timor": [
+    "oost-timorees",
+    "oost-timorese"
+  ],
+  "oostenrijk": [
+    "oostenrijks",
+    "oostenrijkse"
+  ],
+  "pakistan": [
+    "pakistaans",
+    "pakistaanse"
+  ],
+  "palau": [
+    "palaus",
+    "palause"
+  ],
+  "palestina": [
+    "palestijns",
+    "palestijnse"
+  ],
+  "panama": [
+    "panamees",
+    "panamese"
+  ],
+  "papoea-nieuw-guinea": [
+    "papoea-nieuw-guinees",
+    "papoea-nieuw-guinese"
+  ],
+  "paraguay": [
+    "paraguayaans",
+    "paraguayaanse"
+  ],
+  "peru": [
+    "peruaans",
+    "peruaanse"
+  ],
+  "polen": [
+    "pools",
+    "poolse"
+  ],
+  "portugal": [
+    "portugees",
+    "portugese"
+  ],
+  "qatar": [
+    "qatarees",
+    "qatarese"
+  ],
+  "sri lanka": [
+    "sri lankees",
+    "sri lankese"
+  ],
+  "roemenië": [
+    "roemeens",
+    "roemeense"
+  ],
+  "rusland": [
+    "russisch",
+    "russische"
+  ],
+  "rwanda": [
+    "rwandees",
+    "rwandese"
+  ],
+  "saint lucia": [
+    "saint luciaans",
+    "saint luciaanse"
+  ],
+  "samoa": [
+    "samoaans",
+    "samoaanse"
+  ],
+  "san marino": [
+    "san marinees",
+    "san marineese"
+  ],
+  "saoedi-arabië": [
+    "saoedi-arabisch",
+    "saoedi-arabische"
+  ],
+  "schotland": [
+    "schots",
+    "schotse"
+  ],
+  "senegal": [
+    "senegalees",
+    "senegalese"
+  ],
+  "servië": [
+    "servisch",
+    "servische"
+  ],
+  "seychellen": [
+    "seychels",
+    "seychelse"
+  ],
+  "sierra leone": [
+    "sierra leonees"
+  ],
+  "singapore": [
+    "singaporees",
+    "singaporese",
+    "singaporaans",
+    "singaporaanse"
+  ],
+  "slovenië": [
+    "sloveens",
+    "sloveense"
+  ],
+  "slowakije": [
+    "slowakisch",
+    "slowakische"
+  ],
+  "soedan": [
+    "soedanees",
+    "soedanese",
+    "sudanees",
+    "sudanese"
+  ],
+  "somalië": [
+    "somalisch",
+    "somalische"
+  ],
+  "spanje": [
+    "spaans",
+    "spaanse"
+  ],
+  "sultanaat oman": [
+    "omaans",
+    "omaanse"
+  ],
+  "suriname": [
+    "surinaams",
+    "surinaamse"
+  ],
+  "syrië": [
+    "syrisch",
+    "syrische"
+  ],
+  "tadzjikistan": [
+    "tadzjikistaans",
+    "tadzjikistaanse"
+  ],
+  "tanzania": [
+    "tanzaniaans",
+    "tanzaniaanse"
+  ],
+  "thailand": [
+    "thais",
+    "thaise"
+  ],
+  "togo": [
+    "togolees",
+    "togolese"
+  ],
+  "tonga": [
+    "tongaans",
+    "tongaanse"
+  ],
+  "trinidad en tobago": [
+    "trinidadiaans",
+    "trinidadiaanse"
+  ],
+  "tsjaad": [
+    "tsjaads",
+    "tsjaadse",
+    "tsjadisch",
+    "tsjadische"
+  ],
+  "tsjechische republiek": [
+    "tsjechisch",
+    "tsjechische"
+  ],
+  "tunesië": [
+    "tunesisch",
+    "tunesische"
+  ],
+  "turkije": [
+    "turks",
+    "turkse"
+  ],
+  "turkmenistan": [
+    "turkmenistaans",
+    "turkmenistaanse"
+  ],
+  "tuvalu": [
+    "tuvaluaans",
+    "tuvaluaanse"
+  ],
+  "uruguay": [
+    "uruguayaans",
+    "uruguayaanse"
+  ],
+  "vanuatu": [
+    "vanuatuaans",
+    "vanuatuaanse"
+  ],
+  "vaticaanstad": [
+    "vaticaans",
+    "vaticaanse"
+  ],
+  "verenigd koninkrijk": [
+    "brits",
+    "britse"
+  ],
+  "verenigde arabische emiraten": [
+    "emirati"
+  ],
+  "verenigde staten": [
+    "amerika",
+    "amerikaanse",
+    "amerikaans"
+  ],
+  "vietnam": [
+    "vietnamees",
+    "vietnamese"
+  ],
+  "wales": [
+    "welsh",
+    "welshe"
+  ],
+  "zambia": [
+    "zambiaans",
+    "zambiaanse"
+  ],
+  "zimbabwe": [
+    "zimbabwaans",
+    "zimbabwaanse"
+  ],
+  "zuid-afrika": [
+    "zuid-afrikaans",
+    "zuid-afrikaanse"
+  ],
+  "zuid-ossetië": [
+    "zuid-ossetisch",
+    "zuid-ossetische"
+  ],
+  "zuid-soedan": [
+    "zuid-soedaans",
+    "zuid-soedaanse"
+  ],
+  "zweden": [
+    "zweeds",
+    "zweedse"
+  ],
+  "zwitserland": [
+    "zwitsers",
+    "zwitserse"
+  ],
+  "duitsland": [
+    "duits",
+    "duitse"
+  ],
+  "afrika": [
+    "afrikaans",
+    "afrikaanse"
+  ],
+  "azië": [
+    "aziatisch",
+    "aziatische"
+  ],
+  "europa": [
+    "europees",
+    "europese"
+  ],
+  "noord-amerika": [
+    "noord-amerikaans",
+    "noord-amerikaanse"
+  ],
+  "zuid-amerika": [
+    "zuid-amerikaans",
+    "zuid-amerikaanse"
+  ],
+  "oceanië": [
+    "oceaans",
+    "oceanische"
+  ],
+  "antarctica": [
+    "antarctisch",
+    "antarctische"
+  ]
+}
