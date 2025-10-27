@@ -4,7 +4,7 @@ pandas==2.2.2
 matplotlib==3.7.5
 scikit-learn==1.4.2
 nltk==3.8.1
-scipy
+scipy==1.10.1
 pyperclip==1.9.0
 tabulate==0.9.0
 bertopic==0.16.3
