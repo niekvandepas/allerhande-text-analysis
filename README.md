@@ -45,7 +45,7 @@ Due to copyright restrictions, the full Allerhande content cannot be redistribut
 python crawler.py
 ```
 
-This will create the file allerhande_full_website_ocr.json locally.
+This will create the file `allerhande_full_website_ocr.json` locally.
 
 3.	Install dependencies
 
