@@ -37,7 +37,15 @@ git clone <repository-url>
 cd <repository-folder>
 ```
 
-2.	Download the data
+2.	Install dependencies
+
+Make sure you are in a virtual environment. Then install all Python dependencies:
+
+```python
+pip install -r requirements.txt
+```
+
+3.	Download the data
 
 Due to copyright restrictions, the full Allerhande content cannot be redistributed. You need to run the crawler script to generate the dataset:
 
@@ -46,14 +54,6 @@ python crawler.py
 ```
 
 This will create the file `allerhande_full_website_ocr.json` locally.
-
-3.	Install dependencies
-
-Make sure you are in a virtual environment. Then install all Python dependencies:
-
-```python
-pip install -r requirements.txt
-```
 
 4.	Set constants
 
