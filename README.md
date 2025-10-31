@@ -1,10 +1,5 @@
 # "Get a Taste of Asia"  
 **Computationally Tracing the Culinary Other in Dutch Food Discourse**  
-*Niek van de Pas · Ayoub Bagheri · Willy Sier*  
-Part of the paper:  
-> van de Pas, N., Bagheri, A., & Sier, W. (2025). "Get a Taste of Asia": Computationally Tracing the Culinary Other in Dutch Food Discourse.  
-
----
 
 ## Overview
 
